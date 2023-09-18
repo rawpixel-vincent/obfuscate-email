@@ -61,7 +61,7 @@
   "homepage": "https://github.com/rawpixel-vincent/obfuscate-email#readme",
   "devDependencies": {
     "chai": "^4.3.7",
-    "esbuild": "^0.18.14",
+    "esbuild": "^0.19.3",
     "eslint": "^8.45.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-config-standard": "^17.1.0",
